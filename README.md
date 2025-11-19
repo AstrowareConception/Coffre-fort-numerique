@@ -242,4 +242,3 @@
 
 ---
 
-*Fin du sujet — À adapter si besoin en Jour 1, mais **contrat d’API gelé** dès validation pour permettre la parallélisation.*
