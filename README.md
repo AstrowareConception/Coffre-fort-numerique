@@ -1,6 +1,6 @@
 # Sujet & Cahier des charges — Réalisation Professionnelle
 
-> **Base pédagogique** : prolonge le TP « Mini coffre‑fort REST (Slim + Medoo) » en projet complet multi‑équipes. On passe d’un **CRUD fichiers** à un **coffre‑fort numérique** avec comptes, sécurité, partages et double client (JavaFX + Web).
+> **Base pédagogique** : prolonge le TP « Mini coffre‑fort REST (Slim + Medoo) » ([repo de base : MVC-API-REST](https://github.com/AstrowareConception/MVC-API-REST)) en projet complet multi‑équipes. On passe d’un **CRUD fichiers** à un **coffre‑fort numérique** avec comptes, sécurité, partages et double client (JavaFX + Web).
 
 ---
 
@@ -89,6 +89,8 @@
 ---
 
 ## 6) Contrat d’API (brouillon à finaliser **Jour 1**)
+
+> Doc Swagger interactive (en ligne) : https://editor.swagger.io/?url=https://raw.githubusercontent.com/AstrowareConception/Coffre-fort-numerique/refs/heads/main/openapi.yaml
 
 **Auth**
 
